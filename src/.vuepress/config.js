@@ -4,7 +4,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'Vuepress Docs Boilerplate',
+  title: 'Understanding Modern Frontend',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
@@ -37,14 +37,6 @@ module.exports = {
         text: 'Guide',
         link: '/guide/',
       },
-      {
-        text: 'Config',
-        link: '/config/'
-      },
-      {
-        text: 'VuePress',
-        link: 'https://v1.vuepress.vuejs.org'
-      }
     ],
     sidebar: {
       '/guide/': [
@@ -53,7 +45,6 @@ module.exports = {
           collapsable: false,
           children: [
             '',
-            'using-vue',
           ]
         }
       ],

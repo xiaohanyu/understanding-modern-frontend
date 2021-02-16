@@ -54,11 +54,13 @@ HTML/CSS/JavaScript，前端三大件，似乎每一件的诞生都没有什么�
 诸如此类的知识，如果你不去思考 why，只学 how，那么你的知识终究是零散的，不成体系。而我要重点写的，
 就是这个 why。
 
-我列了下大纲，罗列了下我现在能想到的问题，这些问题我已经想得比较明白，自信也能写得比较好。如果
-你有什么想了解但不在这个大纲中的，你可以在[这里](https://github.com/xiaohanyu/understanding-modern-frontend/issues)提Issue。
+我列了下大纲，罗列了下我现在能想到的问题，这些问题我已经想得比较明白，自信也能写
+得比较好。如果你有什么想了解但不在这个大纲中的，你可以在[这
+里](https://github.com/xiaohanyu/understanding-modern-frontend/issues)提Issue。
 
-我可能会花 6-12 个月的时间一篇一篇地将这些 topic 写完整，现在只是个草稿，post 出来，只是给自己
-立个 flag 吧……这样应该能避免自己弃坑不填？希望这个文档的质量通到达到[这篇](http://ppresume.com/notes/guide-zh.html)的标准。
+我可能会花 6-12 个月的时间一篇一篇地将这些 topic 写完整，现在只是个草稿，post 出
+来，只是给自己立个 flag 吧……这样应该能避免自己弃坑不填？希望这个文档的质量通到达
+到[这篇](http://ppresume.com/notes/guide-zh.html)的标准。
 
 如果我支持我的工作，可以给我的支付宝转些钱，金额随意。我的支付宝账户就是我的 gmail 邮箱。
 
