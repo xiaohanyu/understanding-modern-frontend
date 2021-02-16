@@ -1,0 +1,19 @@
+{
+  "name": "understanding-modern-frontend",
+  "version": "0.0.1",
+  "description": "Past, today and future stories of frontend development.",
+  "main": "index.js",
+  "authors": {
+    "name": "Xiao Hanyu",
+    "email": "xiaohanyu1988@gmail.com"
+  },
+  "repository": "https://github.com/xiaohanyu/understanding-modern-frontend",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
