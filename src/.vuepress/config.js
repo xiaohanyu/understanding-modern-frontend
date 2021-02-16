@@ -2,6 +2,11 @@ const { description } = require('../../package')
 
 module.exports = {
   /**
+   * The base URL the site will be deployed at.
+   */
+  base: "/understanding-modern-frontend/",
+
+  /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
   title: 'Understanding Modern Frontend',
