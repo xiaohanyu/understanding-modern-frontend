@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: https://v1.vuepress.vuejs.org/hero.png
+heroImage: /asset/images/blackhole.png
 tagline: Past, today and future stories of frontend development.
 actionText: Quick Start →
 actionLink: /guide/
