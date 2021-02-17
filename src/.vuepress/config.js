@@ -52,6 +52,7 @@ module.exports = {
             '',
             'html',
             'css',
+            'javascript',
           ]
         }
       ],
