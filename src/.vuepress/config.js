@@ -50,7 +50,8 @@ module.exports = {
           collapsable: false,
           children: [
             '',
-            'html'
+            'html',
+            'css',
           ]
         }
       ],
