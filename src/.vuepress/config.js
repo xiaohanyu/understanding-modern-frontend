@@ -53,6 +53,7 @@ module.exports = {
             'html',
             'css',
             'javascript',
+            'engineering',
           ]
         }
       ],
