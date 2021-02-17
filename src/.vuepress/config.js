@@ -39,22 +39,117 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
-        text: 'Guide',
+        text: 'Introduction',
         link: '/guide/',
+      },
+      {
+        text: 'HTML',
+        link: '/html/',
+      },
+      {
+        text: 'CSS',
+        link: '/css/',
+      },
+      {
+        text: 'JavaScript',
+        link: '/javascript/',
+      },
+      {
+        text: 'Engineering',
+        link: '/engineering/',
+      },
+      {
+        text: 'HTTP',
+        link: '/http/',
       },
     ],
     sidebar: {
       '/guide/': [
         {
-          title: 'Guide',
+          title: 'Introduction',
           collapsable: false,
           children: [
             '',
-            'html',
-            'css',
-            'javascript',
-            'engineering',
-            'http',
+          ]
+        }
+      ],
+      '/html/': [
+        {
+          title: 'HTML',
+          collapsable: false,
+          children: [
+            'html-1.0',
+            'html-4.0',
+            'html-5.0',
+            'command-line-browser',
+            'dom',
+            'xhtml',
+            'devtools'
+          ]
+        }
+      ],
+      '/css/': [
+        {
+          title: 'CSS',
+          collapsable: false,
+          children: [
+            'css-1.0',
+            'css-2.0',
+            'css-3.0',
+            'font',
+            'box-model',
+            'layout',
+            'modularization',
+            'preprocessor',
+            'responsive',
+            'devtools',
+          ]
+        }
+      ],
+      '/javascript/': [
+        {
+          title: 'JavaScript',
+          collapsable: false,
+          children: [
+            'closure',
+            'json',
+            'oop',
+            'asynchronous',
+            'modularization',
+            'npm',
+            'devtools',
+          ]
+        }
+      ],
+      '/engineering/': [
+        {
+          title: 'Engineering',
+          collapsable: false,
+          children: [
+            "before_christ.md",
+            "bower.md",
+            "npm.md",
+            "yarn.md",
+            "grunt.md",
+            "gulp.md",
+            "yeoman.md",
+            "webpack.md",
+          ]
+        }
+      ],
+      '/http/': [
+        {
+          title: 'Engineering',
+          collapsable: false,
+          children: [
+            "http-0.9.md",
+            "http-1.0.md",
+            "http-1.1.md",
+            "ajax.md",
+            "restful.md",
+            "https.md",
+            "tools.md",
+            "devtools.md",
           ]
         }
       ],

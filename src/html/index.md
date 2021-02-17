@@ -4,8 +4,6 @@
 
 ## HTML 4.0
 
-### XHTML
-
 ## HTML 5.0
 
 ## Command line based browser
@@ -14,11 +12,7 @@
 
 ### W3M
 
-## DOM Tree
-
-## DOM API as a query language
-
-## What is Hyper?
+## DOM
 
 ## XHTML
 
