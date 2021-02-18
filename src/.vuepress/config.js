@@ -96,6 +96,10 @@ module.exports = {
             text: 'HTTP',
             link: '/http/',
           },
+          {
+            text: 'Github',
+            link: 'https://github.com/xiaohanyu/understanding-modern-frontend',
+          },
         ],
         sidebar: {
           '/introduction/': [
@@ -224,6 +228,10 @@ module.exports = {
           {
             text: 'HTTP',
             link: '/zh/http/',
+          },
+          {
+            text: 'Github',
+            link: 'https://github.com/xiaohanyu/understanding-modern-frontend',
           },
         ],
         sidebar: {
