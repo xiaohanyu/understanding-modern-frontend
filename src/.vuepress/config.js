@@ -116,6 +116,7 @@ module.exports = {
               title: 'HTML',
               collapsable: false,
               children: [
+                'markup-languages',
                 'html-1.0',
                 'html-4.0',
                 'html-5.0',
@@ -249,6 +250,7 @@ module.exports = {
               title: 'HTML',
               collapsable: false,
               children: [
+                'markup-languages',
                 'html-1.0',
                 'html-4.0',
                 'html-5.0',
