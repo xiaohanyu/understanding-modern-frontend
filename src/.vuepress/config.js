@@ -41,6 +41,11 @@ module.exports = {
     }
   },
 
+  markdown: {
+    typographer: true,
+    quotes: '“”‘’',
+  },
+
   /**
    * Theme configuration, here is the default theme configuration for VuePress.
    *
