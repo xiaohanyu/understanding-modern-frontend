@@ -38,7 +38,7 @@ rather than ability. Your tastes only narrow &amp; exclude people.
 <strong>So create</strong>.
 </p>
 
-<p>--- why_the_lucky_stiff</p>
+<p>— why_the_lucky_stiff</p>
 ```
 
 用 Markdown 代码表示：
@@ -47,7 +47,7 @@ rather than ability. Your tastes only narrow &amp; exclude people.
 When you don't create things, you become *defined* by your tastes rather than
 ability. Your tastes only narrow & exclude people. **So create**.
 
---- why_the_lucky_stiff
+— why_the_lucky_stiff
 ```
 
 用TeX 代码表示：
