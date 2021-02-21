@@ -56,11 +56,11 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
-    repo: '',
-    editLinks: false,
-    docsDir: '',
-    editLinkText: '',
-    lastUpdated: false,
+    repo: 'xiaohanyu/understanding-modern-frontend',
+    editLinks: true,
+    docsDir: 'src',
+    editLinkText: 'Edit this page',
+    lastUpdated: true,
     locales: {
       '/': {
         // text for the language dropdown
@@ -104,10 +104,6 @@ module.exports = {
           {
             text: 'HTTP',
             link: '/http/',
-          },
-          {
-            text: 'Github',
-            link: 'https://github.com/xiaohanyu/understanding-modern-frontend',
           },
         ],
         sidebar: {
@@ -238,10 +234,6 @@ module.exports = {
           {
             text: 'HTTP',
             link: '/zh/http/',
-          },
-          {
-            text: 'Github',
-            link: 'https://github.com/xiaohanyu/understanding-modern-frontend',
           },
         ],
         sidebar: {
