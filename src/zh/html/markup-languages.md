@@ -47,7 +47,20 @@ rather than ability. Your tastes only narrow &amp; exclude people.
 <p>— why_the_lucky_stiff</p>
 ```
 
-学术界方面，为了应对复杂数学公式排版的挑战，[Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth) 教授在 1970 年代开发了 [TeX](https://en.wikipedia.org/wiki/TeX) 排版系统。*why_the_lucky_stiff* 的文字，其 TeX 代码为：
+学术界方面，为了应对复杂数学公式排版的挑战，[Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth) 教授在 1970 年代开发了 [TeX](https://en.wikipedia.org/wiki/TeX) 排版系统。
+TeX 实现了细致的分页断行算法以及强大专业的数学排版功能，其数学排版能力在学术界得到了广泛使用。
+
+比如，下面这段文字：
+
+> The quadratic formula is $-b \pm \sqrt{b^2 - 4ac} \over 2a$
+
+其 TeX 代码为：
+
+```tex
+The quadratic formula is $-b \pm \sqrt{b^2 - 4ac} \over 2a$
+```
+
+*why_the_lucky_stiff* 的文字，其 TeX 代码为：
 
 ```tex
 When you don't create things, you become \textit{defined} by your tastes rather than
@@ -129,7 +142,7 @@ making it difficult for copiers who have not gained permission.
 
 其字符数量为 939，在纯文本的基础上增加了 64% 的字符用于表达格式、链接及引用等。相较于 HTML，Markdown 增加的标记字符约为 HTML 的一半，可见 Markdown 的标记相较而言，更加紧凑。直观上看，Markdown 代码比 HTML 代码更“易读”一些。易读易写，这正是 Markdown 的设计目标之一。
 
-作为引入 Markdown 的一个小收尾，*why_the_lucky_stiff* 的文字，其 Markdown 表示为：
+作为引入 Markdown 的一个小结，*why_the_lucky_stiff* 的文字，其 Markdown 表示为：
 
 ```markdown
 When you don't create things, you become *defined* by your tastes rather than
@@ -137,3 +150,5 @@ ability. Your tastes only narrow & exclude people. **So create**.
 
 — why_the_lucky_stiff
 ```
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.5.1/katex.min.css">

@@ -16,5 +16,8 @@
   "devDependencies": {
     "@vuepress/plugin-google-analytics": "^1.8.1",
     "vuepress": "^1.5.3"
+  },
+  "dependencies": {
+    "markdown-it-katex": "^2.0.3"
   }
 }
