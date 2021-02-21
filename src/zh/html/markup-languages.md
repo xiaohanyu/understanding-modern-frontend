@@ -63,14 +63,18 @@ ability. Your tastes only narrow & exclude people. \textbf{So create}.
 
 传统的链接只能链接本地的文档
 
+<p style="text-align: center">
+<img src="./asset/images/emacs-texinfo.png" alt="Emacs Texinfo" />
+</p>
+
 ## 超链接
 
 超链接可以链接远程的文档
 
 Hyperlink
 
-https://en.wikipedia.org/wiki/Hypercube
-
 <p style="text-align: center">
-<img src="./asset/images/emacs-texinfo.png" alt="Emacs Texinfo" />
+<img src="./asset/images/hyperlink.png" alt="Hyperlink" />
 </p>
+
+https://en.wikipedia.org/wiki/Hypercube
