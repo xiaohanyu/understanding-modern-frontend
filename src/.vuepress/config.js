@@ -256,6 +256,8 @@ module.exports = {
               collapsable: false,
               children: [
                 'markup-languages',
+                'link',
+                'hyperlink',
                 'html-1.0',
                 'html-4.0',
                 'html-5.0',

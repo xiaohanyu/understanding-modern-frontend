@@ -1,0 +1,8 @@
+Typesetting is the composition of text by means of arranging physical types[1]
+or the digital equivalents. Stored letters and other symbols (called sorts in
+mechanical systems and glyphs in digital systems) are retrieved and ordered
+according to a language's orthography for visual display. Typesetting requires
+one or more fonts (which are widely but erroneously confused with and
+substituted for typefaces). One significant effect of typesetting was that
+authorship of works could be spotted more easily, making it difficult for
+copiers who have not gained permission.[2]
