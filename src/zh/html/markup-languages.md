@@ -75,7 +75,7 @@ ability. Your tastes only narrow & exclude people. \textbf{So create}.
 <img src="./asset/images/en.wikipedia.org-typesetting.png" alt="Proofreader's marks"/>
 </p>
 
-纯文本的字符数量是 574：
+[纯文本](https://github.com/xiaohanyu/understanding-modern-frontend/blob/master/src/zh/html/code/wikipedia-typesetting.txt)的字符数量是 574：
 
 ```
 Typesetting is the composition of text by means of arranging physical types[1]
@@ -88,7 +88,7 @@ authorship of works could be spotted more easily, making it difficult for
 copiers who have not gained permission.[2]
 ```
 
-而其 HTML 代码的字符数量为 1289，在纯文本的基础上增加了 125% 的字符用于表达格式、链接及引用等：
+而其 [HTML 代码](https://github.com/xiaohanyu/understanding-modern-frontend/blob/master/src/zh/html/code/wikipedia-typesetting.html)的字符数量为 1289，在纯文本的基础上增加了 125% 的字符用于表达格式、链接及引用等：
 
 ```html
 <p>
@@ -119,8 +119,7 @@ copiers who have not gained permission.[2]
 
 为也解决一般标记语言冗长、难读难写的缺点，人们发明了各种各样的[轻量级标记语言](https://en.wikipedia.org/wiki/Lightweight_markup_language)。这其中应用最广泛的是由 [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz) 和 [John Cruber](https://en.wikipedia.org/wiki/John_Gruber) 合作发明的 [Markdown](https://daringfireball.net/projects/markdown/) 。
 
-
-Typesetting [论述](https://en.m.wikipedia.org/wiki/Typesetting) 的等效 Markdown 转换代码为：
+Typesetting [论述](https://en.m.wikipedia.org/wiki/Typesetting) 的等效 [Markdown 代码](https://github.com/xiaohanyu/understanding-modern-frontend/blob/master/src/zh/html/code/wikipedia-typesetting.md)为：
 
 ```markdown
 **Typesetting** is the composition of
