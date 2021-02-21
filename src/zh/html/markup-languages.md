@@ -6,11 +6,15 @@
 
 HTML（英语：**H**yper**T**ext **M**arkup **L**anguage），汉译为超文本标记语言。从定义上看，HTML 首先是一种[标记语言](https://en.wikipedia.org/wiki/Markup_language)。
 
-标记语言，顾名思义，就是加了标记的语言。 标记语言最早用于出版业，是作者、编辑以及出版商之间用于描述作品的排版格式使用的。
+标记语言，顾名思义，就是加了标记的语言。
 
-如果说文字是信息的一种载体，那么带了格式的文字，就是这种载体的一种变体了。同一份文字不同的格式，会传达出不同的情感。
+语言是一种抽象的概念，引用维基百科的[定义](https://zh.wikipedia.org/wiki/%E8%AA%9E%E8%A8%80)——语言是一类复合交流系统。语言要实现交流的功能，必须通过一种载体，声音，文字，手势，都是语言的一种载体。
 
-在最早的出版流程中，作者将文字手稿交给编辑，编辑审阅，通过一些标记作出一些文字及格式上的订正，之后定稿交托出版商付印发行。
+在口语中，不同的声调可以表达不同的情感。同样，在书面语中，不同的格式，标点，亦可传达不同的情感——而格式的表达则主要是通过标记来实现的。
+
+标记语言最早用于出版业，是作者、编辑及出版商之间用于描述作品的排版格式所使用的。在最早的出版流程中，作者将手稿交予编辑，编辑校对，通过标记订正文字、标点及格式，之后定稿、付印、发行。
+
+传统的校对工作有自己的一套标记符号。下图是 [The Chicogo Manual of Style](https://www.chicagomanualofstyle.org/home.html)中的[标记符号](https://www.chicagomanualofstyle.org/16/ch02/ch02_fig06.html)及校对过的[文稿](https://www.chicagomanualofstyle.org/16/ch02/ch02_fig07.html)：
 
 <p style="text-align: center">
 <img src="./asset/images/proofreaders-marks.png" alt="Proofreader's marks"/>
@@ -20,8 +24,6 @@ HTML（英语：**H**yper**T**ext **M**arkup **L**anguage），汉译为超文�
 <img src="./asset/images/marked-proofs.png" alt="Marked proofs" />
 </p>
 
-对于口语来说，不同的声调可以表达不同的情感。对于书面语来说，不同的格式，标点，亦可以传达不同的情感。而格式的表达则主要是通过标记来实现的。
-
 对于下面的一段文字：
 
 > When you don't create things, you become *defined* by your tastes rather than
@@ -29,7 +31,14 @@ HTML（英语：**H**yper**T**ext **M**arkup **L**anguage），汉译为超文�
 >
 > --- why_the_lucky_stiff
 
-用 HTML 代码来表示：
+手稿形式：
+
+<p style="text-align: center">
+<img src="./asset/images/manuscript-mark.png" alt="Proofreader's marks"/>
+</p>
+
+
+HTML 形式：
 
 ```html
 <p>
@@ -41,7 +50,7 @@ rather than ability. Your tastes only narrow &amp; exclude people.
 <p>— why_the_lucky_stiff</p>
 ```
 
-用 Markdown 代码表示：
+[Markdown](https://en.wikipedia.org/wiki/Markdown) 形式：
 
 ```markdown
 When you don't create things, you become *defined* by your tastes rather than
@@ -50,7 +59,7 @@ ability. Your tastes only narrow & exclude people. **So create**.
 — why_the_lucky_stiff
 ```
 
-用TeX 代码表示：
+[TeX](https://en.wikipedia.org/wiki/TeX) 形式：
 
 ```tex
 When you don't create things, you become \textit{defined} by your tastes rather than
