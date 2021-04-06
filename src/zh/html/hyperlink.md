@@ -1,5 +1,15 @@
 ## 超链接
 
+传统的链接只能链接本地的文档
+
+### texinfo
+
+<p style="text-align: center">
+<img src="./asset/images/emacs-texinfo.png" alt="Emacs Texinfo" />
+</p>
+
+### vim
+
 超链接可以链接远程的文档
 
 Hyperlink
@@ -17,4 +27,4 @@ https://en.wikipedia.org/wiki/Hypercube
 - HTTP 0.9
 - browser
 
-超链接是一种单向链接，会有链接失效的问题，HTTP 分别提供了 3xx 和 4xx 来表示相应的情况
+超链接是一种单向链接，会有链接失效的问题，HTTP 分别提供了 3xx 和 4xx 来表示相应的情况。
