@@ -257,7 +257,8 @@ module.exports = {
                 'html-1.0',
                 'html-4.0',
                 'html-5.0',
-                'command-line-browser',
+                'browser',
+                'browser-extra-command-line-browser',
                 'dom',
                 'xhtml',
                 'devtools'

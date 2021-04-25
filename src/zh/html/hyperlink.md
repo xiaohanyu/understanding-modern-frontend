@@ -28,3 +28,5 @@ https://en.wikipedia.org/wiki/Hypercube
 - browser
 
 超链接是一种单向链接，会有链接失效的问题，HTTP 分别提供了 3xx 和 4xx 来表示相应的情况。
+
+DOI: https://dx.doi.org/
